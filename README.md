@@ -10,7 +10,7 @@ This repository is created to share general information about Jeeto 999 in one s
 
 We believe information should be easy to understand. That is why this guide uses simple English instead of complicated words.
 
-## What is Jeeto 999?
+## What is Jeeto 999
 
 Jeeto 999 is an online gaming platform made for people who enjoy mobile entertainment. Many users look for information about the game, its features, updates, and general gameplay.
 
